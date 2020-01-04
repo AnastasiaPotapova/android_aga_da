@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1559634523 source:c:\temp\main.cpp
+	<iostream>
+	<vector>
+
+1576253991 source:c:\temp\c\main.cpp
+	<vector>
+	<iostream>
+	<algorithm>
+	<string>
+	<set>
+
